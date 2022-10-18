@@ -15,7 +15,7 @@
 日期 | 番组名称 | 中文字体 | 日文字体
 ---    | -------- | --- | ---
 202207 | Lycoris Recoil | 思源宋体 CN、思源宋体 TW | Yu Gothic
-202207 | Fuuto Tantei-风都侦探 | 方正FW珍珠体 简繁 | Yu Gothic
+202207 | 风都侦探(Fuuto Tantei) | 方正FW珍珠体 简繁 | Yu Gothic
 202207 | Extreme Hearts | 方正特雅宋_GBK | Yu Gothic
 
 
@@ -23,4 +23,4 @@
 日期 | 番组名称 | 中文字体 | 日文字体
 ---    | -------- | --- | ---
 202210 | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
-202210 | 新人炼金术师的店铺经营 | 仓耳今楷01-W05 | Yu Gothic
+202210 | 新人炼金术师的店铺经营(Shinmai Renkinjutsushi no Tenpo Keiei) | 仓耳今楷01-W05 | Yu Gothic
